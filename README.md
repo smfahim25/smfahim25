@@ -15,21 +15,21 @@
 
 ## 📊 Professional Overview
 
-I am a results-driven **Software Engineer** specializing in full-stack web applications, modern frontend architecture, and resilient backend systems[cite: 1, 2]. Currently at **PlanPost AI**, I engineer automated AI-powered content platforms, bulk processing workflows, and interactive chatbot interfaces[cite: 1].
+I am a results-driven **Software Engineer** specializing in full-stack web applications, modern frontend architecture, and resilient backend systems. Currently at **PlanPost AI**, I engineer automated AI-powered content platforms, bulk processing workflows, and interactive chatbot interfaces.
 
-With a solid background building performant applications across international and startup environments, I focus on building responsive user interfaces, designing clean RESTful APIs, and integrating practical generative AI features[cite: 1, 2].
+With a solid background building performant applications across international and startup environments, I focus on building responsive user interfaces, designing clean RESTful APIs, and integrating practical generative AI features.
 
 ## 💼 Professional Roadmap
 
 ### 🔭 Current Engagement
-- 🏢 **Software Engineer** at **PlanPost AI** (10/2024 — 01/2026)[cite: 1]  
-  Architecting template-based post generation, real-time image rendering canvases, bulk post generation pipelines (30+ posts at once), and comprehensive chatbot dashboards[cite: 1].
+- 🏢 **Software Engineer** at **PlanPost AI** (10/2024 — Present)  
+  Architecting template-based post generation, real-time image rendering canvases, bulk post generation pipelines (30+ posts at once), and comprehensive chatbot dashboards.
 
 ### 🧑‍💻 Previous Experience
-- 💻 **Front End Developer (React)** at **Koneksys** (02/2023 — 06/2024)[cite: 1]  
-  Delivered high-performance, modular UI features and cross-browser responsive interfaces for US-based enterprise operations[cite: 1].
-- 🎥 **Front End Developer (React)** at **My Next Film** (09/2022 — 01/2023)[cite: 2]  
-  Built scalable frontend interfaces using React.js with a strong focus on UI/UX polish and client-side optimization[cite: 2].
+- 💻 **Front End Developer (React)** at **Koneksys** (02/2023 — 06/2024)  
+  Delivered high-performance, modular UI features and cross-browser responsive interfaces for US-based enterprise operations.
+- 🎥 **Front End Developer (React)** at **My Next Film** (09/2022 — 01/2023)  
+  Built scalable frontend interfaces using React.js with a strong focus on UI/UX polish and client-side optimization.
 
 ---
 
@@ -72,8 +72,8 @@ With a solid background building performant applications across international an
 
 ## 📈 Activity & Impact
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&color=0e75b6" width="100%" />
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smfahim25&theme=react-dark&hide_border=true&area=true&color=0e75b6" width="100%" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=smfahim25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
